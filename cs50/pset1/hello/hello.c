@@ -12,6 +12,7 @@ int main(){
 	if(i == 0){
 
 		printf("modify for branch\n")
+		printf("modify for branch2\n")
 	}
 	
 }
